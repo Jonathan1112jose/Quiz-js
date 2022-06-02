@@ -26,12 +26,7 @@ function main(){
 
     const quiz = new Quiz(questions);
     const ui = new UI();
-
-
     RepintarPagina(ui,quiz)
-
-    
-
 }
 
 main()
